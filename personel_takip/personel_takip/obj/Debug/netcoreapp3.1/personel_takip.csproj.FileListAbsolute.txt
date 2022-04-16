@@ -1,0 +1,16 @@
+C:\Users\90553\source\repos\personel_takip\personel_takip\bin\Debug\netcoreapp3.1\personel_takip.exe
+C:\Users\90553\source\repos\personel_takip\personel_takip\bin\Debug\netcoreapp3.1\personel_takip.deps.json
+C:\Users\90553\source\repos\personel_takip\personel_takip\bin\Debug\netcoreapp3.1\personel_takip.runtimeconfig.json
+C:\Users\90553\source\repos\personel_takip\personel_takip\bin\Debug\netcoreapp3.1\personel_takip.runtimeconfig.dev.json
+C:\Users\90553\source\repos\personel_takip\personel_takip\bin\Debug\netcoreapp3.1\personel_takip.dll
+C:\Users\90553\source\repos\personel_takip\personel_takip\bin\Debug\netcoreapp3.1\personel_takip.pdb
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.Form1.resources
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.csproj.GenerateResource.cache
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.AssemblyInfo.cs
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.dll
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.pdb
+C:\Users\90553\source\repos\personel_takip\personel_takip\obj\Debug\netcoreapp3.1\personel_takip.genruntimeconfig.cache
